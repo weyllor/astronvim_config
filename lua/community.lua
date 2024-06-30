@@ -12,7 +12,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.night-owl-nvim" },
   { import = "astrocommunity.colorscheme.nightfox-nvim" },
-  { import = "astrocommunity.colorscheme.tokyodark-nvim" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
   { import = "astrocommunity.color/vim-highlighter" },
