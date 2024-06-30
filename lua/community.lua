@@ -17,6 +17,7 @@ return {
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
   { import = "astrocommunity.color/vim-highlighter" },
   { import = "astrocommunity.git.blame-nvim" },
+  { import = "astrocommunity.keybinding.nvcheatsheet-nvim" },
   { import = "astrocommunity.motion.hop-nvim" },
   -- import/override with your plugins folder
 }
