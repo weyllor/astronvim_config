@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.recipes.neovide" },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.color/vim-highlighter" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.motion.hop-nvim" },
   -- import/override with your plugins folder
