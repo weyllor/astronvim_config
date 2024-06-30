@@ -15,7 +15,7 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
-  { import = "astrocommunity.color/vim-highlighter" },
+  { import = "astrocommunity.color.vim-highlighter" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.keybinding.nvcheatsheet-nvim" },
   { import = "astrocommunity.motion.hop-nvim" },
