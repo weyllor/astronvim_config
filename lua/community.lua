@@ -19,5 +19,7 @@ return {
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.keybinding.nvcheatsheet-nvim" },
   { import = "astrocommunity.motion.hop-nvim" },
+  { import = "astrocommunity.scrolling.cinnamon-nvim" },
+  { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
   -- import/override with your plugins folder
 }
