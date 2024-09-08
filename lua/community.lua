@@ -21,5 +21,6 @@ return {
   { import = "astrocommunity.motion.hop-nvim" },
   { import = "astrocommunity.scrolling.cinnamon-nvim" },
   { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
+  { import = "astrocommunity.fuzzy-finder" },
   -- import/override with your plugins folder
 }
