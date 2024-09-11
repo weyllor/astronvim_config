@@ -92,4 +92,5 @@ return {
       -- log_level = 'debug',
     },
   },
+  { "https://github.com/Weyaaron/nvim-training", pin = true, opts = {} }, -- Support for configuration with opts is included, see below for the options
 }
