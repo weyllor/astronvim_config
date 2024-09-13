@@ -19,6 +19,7 @@ return {
   { import = "astrocommunity.keybinding.nvcheatsheet-nvim" },
   { import = "astrocommunity.motion.hop-nvim" },
   { import = "astrocommunity.scrolling.cinnamon-nvim" },
+  { import = "astrocommunity.remote-development.distant-nvim" },
   { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
   { import = "astrocommunity.fuzzy-finder" },
   { import = "astrocommunity.pack.cmake" },
