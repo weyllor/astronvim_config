@@ -7,7 +7,6 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.recipes.neovide" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.colorscheme.night-owl-nvim" },
   { import = "astrocommunity.colorscheme.nightfox-nvim" },
